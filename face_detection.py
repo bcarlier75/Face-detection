@@ -13,9 +13,7 @@ class Color:
 
 
 def face_detection(live_or_file: int):
-    """
-    Perform face_detection on a picture using MTCNN implementation.
-    """
+    """Perform face_detection on a picture using MTCNN implementation."""
     detector = MTCNN()
     if live_or_file == 0:
         camera_feed = cv2.VideoCapture(0)
