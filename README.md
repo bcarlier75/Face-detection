@@ -20,7 +20,7 @@ python face_detection.py
 ```
 Case **(2)**:
 ```
-python face_detection.py FILE_PATH
+python face_detection.py path_of_your_file
 ```
 **Output example**:
 
