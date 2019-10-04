@@ -1,8 +1,8 @@
 # Face detection
 Face detection using Multi-task Cascaded Convolutional Networks (MTCNN)
 
-## Main goals of this personnal project
-- Get a better understanding on how CNN works and on the maths behind it.
+## Key takeaways
+- Get a better understanding on how CNN works and the maths behind it.
 - Use some of the things I learned in Python through my readings.
 
 MTCNN architecture // [Source](https://arxiv.org/abs/1604.02878)
